@@ -6,7 +6,7 @@ You need:
 - Python
 - Pytube
 
-# How to instal requirements:
+# How to install requirements:
 
 Download Python from the website: https://python.org/downloads
 
@@ -19,4 +19,4 @@ Paste the YouTube link into the textbox and select the preferred quality.
 
 # Enjoy the code!
 
-# Credits to Zsombyy for contributing in the code
+# Credits to Zsombyy for making the code
